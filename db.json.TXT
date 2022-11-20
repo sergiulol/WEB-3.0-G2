@@ -1,0 +1,9 @@
+{
+ "users:[
+        {
+          "id":1,     
+          "name":"sergiu",
+          "surname":"secrieru",
+          "curs": "web 3.0"
+}
+}
